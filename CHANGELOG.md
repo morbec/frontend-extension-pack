@@ -28,3 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - richie5um2.vscode-sort-json
 - VisualStudioExptTeam.vscodeintellicode
 - zhuangtongfa.Material-theme
+
+## [1.0.1] - 2019-07-22
+
+- Added DotENV extension (mikestead.dotenv)

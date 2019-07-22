@@ -2,7 +2,7 @@
 	"name": "frontend-pack",
 	"displayName": "Frontend Pack",
 	"description": "My favorite extensions",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "FabioMorbec",
 	"engines": {
 		"vscode": "^1.36.0"
@@ -29,6 +29,7 @@
 		"PKief.material-icon-theme",
 		"richie5um2.vscode-sort-json",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"zhuangtongfa.Material-theme"
+		"zhuangtongfa.Material-theme",
+    "mikestead.dotenv"
 	]
 }
