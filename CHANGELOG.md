@@ -5,7 +5,13 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0. 2] - 2019-07-24
+
+- Added the theme _Neon Night_ (`chaseadamsio.vscode-theme-neon-night`)
+
+## [1.0.1] - 2019-07-22
+
+- Added DotENV extension (`mikestead.dotenv`)
 
 ## [1.0.0] - 2019-07-18
 
@@ -28,7 +34,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - richie5um2.vscode-sort-json
 - VisualStudioExptTeam.vscodeintellicode
 - zhuangtongfa.Material-theme
-
-## [1.0.1] - 2019-07-22
-
-- Added DotENV extension (mikestead.dotenv)

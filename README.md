@@ -1,4 +1,4 @@
-# Favorite Extensions
+# Favorite Extensions & Themes
 
 - zhuangtongfa.Material-theme
 - alefragnani.Bookmarks
@@ -15,3 +15,5 @@
 - PKief.material-icon-theme
 - richie5um2.vscode-sort-json
 - VisualStudioExptTeam.vscodeintellicode
+- mikestead.dotenv
+- chaseadamsio.vscode-theme-neon-night
