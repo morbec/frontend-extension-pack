@@ -2,7 +2,7 @@
 	"name": "frontend-pack",
 	"displayName": "Frontend Pack",
 	"description": "My favorite extensions",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "FabioMorbec",
 	"engines": {
 		"vscode": "^1.36.0"
@@ -31,6 +31,7 @@
 		"VisualStudioExptTeam.vscodeintellicode",
 		"zhuangtongfa.Material-theme",
 		"mikestead.dotenv",
-		"chaseadamsio.vscode-theme-neon-night"
+		"chaseadamsio.vscode-theme-neon-night",
+    "jpoissonnier.vscode-styled-components"
 	]
 }

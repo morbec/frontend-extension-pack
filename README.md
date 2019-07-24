@@ -17,3 +17,5 @@
 - VisualStudioExptTeam.vscodeintellicode
 - mikestead.dotenv
 - chaseadamsio.vscode-theme-neon-night
+- jpoissonnier.vscode-styled-components
+

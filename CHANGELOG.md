@@ -5,7 +5,11 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0. 2] - 2019-07-24
+## [1.0.3] - 2019-07-24
+
+- Added `vscode-styled-components` (`jpoissonnier.vscode-styled-components`)
+
+## [1.0.2] - 2019-07-24
 
 - Added the theme _Neon Night_ (`chaseadamsio.vscode-theme-neon-night`)
 
