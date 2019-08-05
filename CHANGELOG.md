@@ -5,6 +5,10 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Update [1.0.4] - 2019-08-05
+
+- Removed `ms-vscode.vscode-typescript-next`
+
 ## Update [1.0.3] - 2019-07-24
 
 - Added `vscode-styled-components` (`jpoissonnier.vscode-styled-components`)
