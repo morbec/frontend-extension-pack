@@ -17,3 +17,4 @@
 - mikestead.dotenv
 - chaseadamsio.vscode-theme-neon-night
 - jpoissonnier.vscode-styled-components
+- humao.rest-client
