@@ -19,3 +19,4 @@
 - jpoissonnier.vscode-styled-components
 - humao.rest-client
 - orta.vscode-jest
+- firefox-devtools.vscode-firefox-debug

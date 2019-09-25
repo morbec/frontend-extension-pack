@@ -2,7 +2,7 @@
   "name": "frontend-pack",
   "displayName": "Frontend Pack",
   "description": "My favorite extensions",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "FabioMorbec",
   "engines": {
     "vscode": "^1.36.0"
