@@ -5,6 +5,41 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Update [1.0.8] - 2020-01-29
+
+### Extensions removed:
+
+- "CoenraadS.bracket-pair-colorizer-2"
+- "flowtype.flow-for-vscode"
+- "formulahendry.auto-rename-tag"
+- "johnpapa.vscode-peacock"
+- "mhutchie.git-graph"
+- "jpoissonnier.vscode-styled-components"
+- "orta.vscode-jest"
+- "zhuangtongfa.Material-theme"
+
+### Extensions added:
+
+"adamgirton.gloom",
+"albert.TabOut",
+"arthurwhite.white",
+"azemoh.one-monokai",
+"christian-kohler.path-intellisense",
+"chris-noring.node-snippets","Gruntfuggly.todo-tree",
+"enkia.tokyo-night",
+"gigacore.blacksand",
+"humao.rest-client",
+"jker.white-winter",
+"jmsv.JavaScriptSnippetsStandard",
+"josee9988.black-garnet-theme",
+"kkozee.theme-one-dark-vivid",
+"kuscamara.electron",
+"metagogo.metagogo",
+"sygene.auto-correct",
+"teabyii.ayu",
+"whizkydee.material-palenight-theme",
+"wmaurer.vscode-jumpy"
+
 ## Update [1.0.7] - 2019-09-25
 
 - Added Debugger for Firefox (`firefox-devtools.vscode-firefox-debug`)
