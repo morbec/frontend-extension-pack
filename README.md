@@ -10,6 +10,7 @@
 - jker.white-winter
 - josee9988.black-garnet-theme
 - kkozee.theme-one-dark-vivid
+- kytal.FlatUI
 - kuscamara.electron
 - PKief.material-icon-theme
 - teabyii.ayu

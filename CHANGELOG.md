@@ -5,6 +5,10 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Update [1.0.9] - 2020-02-03
+
+- Added FlatUI theme (`kytal.FlatUI`)
+
 ## Update [1.0.8] - 2020-01-29
 
 ### Extensions removed:

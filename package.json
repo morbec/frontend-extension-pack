@@ -2,7 +2,7 @@
   "name": "frontend-pack",
   "displayName": "Frontend Pack",
   "description": "My favorite extensions",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publisher": "FabioMorbec",
   "engines": {
     "vscode": "^1.41.1"
@@ -25,6 +25,7 @@
     "jker.white-winter",
     "josee9988.black-garnet-theme",
     "kkozee.theme-one-dark-vivid",
+    "kytal.FlatUI",
     "kuscamara.electron",
     "PKief.material-icon-theme",
     "teabyii.ayu",
