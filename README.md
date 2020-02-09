@@ -6,12 +6,9 @@
 - azemoh.one-monokai
 - chaseadamsio.vscode-theme-neon-night
 - dracula-theme.theme-dracula
-- gigacore.blacksand
 - jker.white-winter
-- josee9988.black-garnet-theme
-- kkozee.theme-one-dark-vivid
-- kytal.FlatUI
 - kuscamara.electron
+- zhuangtongfa.material-theme
 - PKief.material-icon-theme
 - teabyii.ayu
 - whizkydee.material-palenight-theme

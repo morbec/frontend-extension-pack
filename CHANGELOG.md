@@ -5,6 +5,20 @@ All notable changes to the "mypack" extension pack will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Update [1.0.10] - 2020-02-09
+
+### Extensions removed:
+
+- "josee9988.black-garnet-theme"
+- "gigacore.blacksand"
+- "gigacore.blacksand"
+- "kytal.FlatUI"
+- "kkozee.theme-one-dark-vivid"
+
+### Extension added:
+
+- zhuangtongfa.material-theme (One Dark Pro)
+
 ## Update [1.0.9] - 2020-02-03
 
 - Added FlatUI theme (`kytal.FlatUI`)
@@ -31,11 +45,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 "christian-kohler.path-intellisense",
 "chris-noring.node-snippets","Gruntfuggly.todo-tree",
 "enkia.tokyo-night",
-"gigacore.blacksand",
 "humao.rest-client",
 "jker.white-winter",
 "jmsv.JavaScriptSnippetsStandard",
-"josee9988.black-garnet-theme",
 "kkozee.theme-one-dark-vivid",
 "kuscamara.electron",
 "metagogo.metagogo",
